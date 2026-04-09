@@ -1,5 +1,5 @@
 import pandas as pd
-from Transformación import transformacion
+from Transformacion import transformacion
 from Credenciales import conexion_repo_final
 
 print("\nCARGA DE DATOS...")
