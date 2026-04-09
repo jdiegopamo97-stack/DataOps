@@ -1,2 +1,6 @@
 pandas
 openpyxl
+glob
+prefect
+collections
+functools
